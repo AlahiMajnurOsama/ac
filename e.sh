@@ -1,2 +1,2 @@
-apt-get install curl -y 
-curl -sSL https://get.easypanel.io | sh
+apt-get install wget -y 
+wget -qO- https://get.easypanel.io | sh
