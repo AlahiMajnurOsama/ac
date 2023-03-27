@@ -1,0 +1,5 @@
+steps:
+  - name: Give execute permission and run d.sh and p.sh
+    command: bash a.sh
+    env:
+      SOME_ENV_VAR: "value"
